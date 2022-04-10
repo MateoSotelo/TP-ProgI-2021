@@ -1,0 +1,9 @@
+C:\Users\msote\OneDrive\Documentos\prog1-tp-net-2021-sotelo-viano-zbrun\Logica2\bin\Debug\Logica2.dll
+C:\Users\msote\OneDrive\Documentos\prog1-tp-net-2021-sotelo-viano-zbrun\Logica2\bin\Debug\Logica2.pdb
+C:\Users\msote\OneDrive\Documentos\prog1-tp-net-2021-sotelo-viano-zbrun\Logica2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\msote\OneDrive\Documentos\prog1-tp-net-2021-sotelo-viano-zbrun\Logica2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\msote\OneDrive\Documentos\prog1-tp-net-2021-sotelo-viano-zbrun\Logica2\obj\Debug\Logica2.csproj.AssemblyReference.cache
+C:\Users\msote\OneDrive\Documentos\prog1-tp-net-2021-sotelo-viano-zbrun\Logica2\obj\Debug\Logica2.csproj.CoreCompileInputs.cache
+C:\Users\msote\OneDrive\Documentos\prog1-tp-net-2021-sotelo-viano-zbrun\Logica2\obj\Debug\Logica2.csproj.CopyComplete
+C:\Users\msote\OneDrive\Documentos\prog1-tp-net-2021-sotelo-viano-zbrun\Logica2\obj\Debug\Logica2.dll
+C:\Users\msote\OneDrive\Documentos\prog1-tp-net-2021-sotelo-viano-zbrun\Logica2\obj\Debug\Logica2.pdb

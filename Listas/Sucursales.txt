@@ -1,0 +1,1 @@
+[{"TasaInteres":10,"ID":4,"Ciudad":"Rafaela","Direccion":"Alvear","CP":2300}]
